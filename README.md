@@ -1,5 +1,5 @@
 # Responsive-Clock-Ui-Design
-- Beautiful responsive clock UI design using HTML, CSS, and JAVASCRIPT. 
+- A responsive clock UI design using HTML, CSS, and JAVASCRIPT. 
 - Contains an elegant Neumorphism watch. 
 - Also a clock in the form of text. 
 - It has the date of the year. 
