@@ -17,3 +17,11 @@ const clock = () =>{
 }
 setInterval(clock, 1000) // 1000 = 1s
 
+/*** CLOCK & DATE TEXT ***/
+const textHour = document.getElementById('text-hour'),
+      textMinutes = document.getElementById('text-minutes'),
+      textAmPm = document.getElementById('text-ampm'),
+    //   dateWeek = document.getElementById('date-day-week'),
+      dateDay = document.getElementById('date-day'),
+      dateMonth = document.getElementById('date-month'),
+      dateYear = document.getElementById('date-year')
